@@ -25,6 +25,4 @@ A Flask-based Online Survey System developed for a B.Tech project.
 - ReportLab
 - OpenPyXL
 
-## Developed By
 
-Lakshman Chowdary
